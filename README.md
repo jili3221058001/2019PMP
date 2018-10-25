@@ -37,4 +37,4 @@ PMP指的是项目管理专业人士资格认证。
 四、微信小程序
 
 PMP字典
-![image](https://github.com/jili3221058001/2019PMP/123.jpg)
+![image](https://github.com/jili3221058001/2019PMP/blob/master/123.jpg)
